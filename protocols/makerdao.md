@@ -15,3 +15,4 @@ In return, they can generate DAI.
 - DAI stablecoin
 - collateralized vaults
 - governance by MKR token holders
+- done
